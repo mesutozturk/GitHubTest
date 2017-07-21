@@ -21,5 +21,10 @@ namespace GitHubTest
             Console.WriteLine("Muhammed");
 
         }
+
+        public static void CanOzaytekin()
+        {
+            Console.WriteLine("Merhaba Github :D ");
+        }
     }
 }
