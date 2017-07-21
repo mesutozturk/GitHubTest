@@ -28,5 +28,7 @@ namespace GitHubTest
         }
         public int MyProperty { get; set; }
         public int asd { get; set; }
+
+        public string kayisi { get; set; }
     }
 }
