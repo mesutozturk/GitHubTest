@@ -14,6 +14,6 @@ namespace GitHubTest
             Console.WriteLine("fmakmfklasmlkdmsalkd");
                         
         }
-
+        public string Canan { get; set; }
     }
 }
