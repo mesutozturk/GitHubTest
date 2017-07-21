@@ -11,6 +11,15 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
+            Console.WriteLine("fmakmfklasmlkdmsalkd");
+
+            
+        }
+        public static void Muhammed()
+        {
+
+            Console.WriteLine("Muhammed");
+
             Console.WriteLine("Hello GitHub");
 
         }
