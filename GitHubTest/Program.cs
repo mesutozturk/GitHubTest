@@ -12,6 +12,9 @@ namespace GitHubTest
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("fmakmfklasmlkdmsalkd");
+
+            Console.WriteLine("En büyük cimbom");
         }
+        public int asd { get; set; }
     }
 }
