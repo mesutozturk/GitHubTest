@@ -21,5 +21,8 @@ namespace GitHubTest
             Console.WriteLine("Muhammed");
 
         }
+
+        public static void Canan()
+        { Console.WriteLine("canan"); }
     }
 }
