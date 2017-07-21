@@ -18,7 +18,7 @@ namespace GitHubTest
 
         public static void Muhammed()
         {
-            Console.Write("Fenerbahçe");
+            Console.Write("Oeestersund");
             Console.WriteLine("Muhammed");
 
             Console.WriteLine("Hello GitHub");
