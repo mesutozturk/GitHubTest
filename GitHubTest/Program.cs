@@ -21,5 +21,9 @@ namespace GitHubTest
             Console.WriteLine("Muhammed");
 
         }
+        public static void Perisan()
+        {
+            Console.WriteLine("Saliha");
+        }
     }
 }
