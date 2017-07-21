@@ -8,5 +8,6 @@ namespace GitHubTest
 {
     class CanOzaytekin
     {
+        public int BuNeCan { get; set; }
     }
 }
