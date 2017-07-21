@@ -23,5 +23,6 @@ namespace GitHubTest
             Console.WriteLine("Hello GitHub");
 
         }
+        public int MyProperty { get; set; }
     }
 }
