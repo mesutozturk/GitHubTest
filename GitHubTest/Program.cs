@@ -18,13 +18,17 @@ namespace GitHubTest
 
         public static void Muhammed()
         {
-
+            Console.Write("Oeestersund");
             Console.WriteLine("Muhammed");
+
+            Console.WriteLine("Hello GitHub");
+
+            Console.WriteLine("Hello GitHub");
+
+        }
 
         }
         public int MyProperty { get; set; }
         public int asd { get; set; }
-
-        public string kayisi { get; set; }
     }
 }
