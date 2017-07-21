@@ -20,6 +20,8 @@ namespace GitHubTest
 
             Console.WriteLine("Muhammed");
 
+            Console.WriteLine("Hello GitHub");
+
         }
 
         public static void Canan()
