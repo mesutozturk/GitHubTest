@@ -15,9 +15,10 @@ namespace GitHubTest
 
             
         }
+
         public static void Muhammed()
         {
-
+            Console.Write("Fenerbahçe");
             Console.WriteLine("Muhammed");
 
         }
