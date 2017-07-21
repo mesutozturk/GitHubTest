@@ -23,9 +23,7 @@ namespace GitHubTest
 
             Console.WriteLine("Hello GitHub");
 
-
-            Console.WriteLine("En büyük cimbom");
-
+            
         }
         public static void Merve()
         {
