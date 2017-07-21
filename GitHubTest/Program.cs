@@ -12,7 +12,8 @@ namespace GitHubTest
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("fmakmfklasmlkdmsalkd");
-                        
+
+            
         }
 
         public static void Muhammed()
@@ -22,7 +23,12 @@ namespace GitHubTest
 
             Console.WriteLine("Hello GitHub");
 
+
+            Console.WriteLine("En büyük cimbom");
         }
         public int MyProperty { get; set; }
+        public int asd { get; set; }
+
+        public string kayisi { get; set; }
     }
 }
