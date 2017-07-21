@@ -21,6 +21,9 @@ namespace GitHubTest
             Console.Write("Fenerbahçe");
             Console.WriteLine("Muhammed");
 
+            Console.WriteLine("Hello GitHub");
+
         }
+        public int MyProperty { get; set; }
     }
 }
