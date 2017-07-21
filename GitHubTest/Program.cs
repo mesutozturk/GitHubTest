@@ -11,7 +11,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
-            Console.WriteLine("En büyük cimbom");
+            Console.WriteLine("fmakmfklasmlkdmsalkd");
         }
     }
 }
