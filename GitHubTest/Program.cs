@@ -12,19 +12,22 @@ namespace GitHubTest
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("fmakmfklasmlkdmsalkd");
-
-            
+            Console.WriteLine("Kayısı nerede?");
+            Console.WriteLine("Fındık nerede?");
         }
 
         public static void Muhammed()
         {
-            Console.Write("Fenerbahçe");
+            Console.Write("Oestersund");
             Console.WriteLine("Muhammed");
 
             Console.WriteLine("Hello GitHub");
-
+            
         }
         public int MyProperty { get; set; }
+        public int asd { get; set; }
+
+        public string kayisi { get; set; }
         public static void Perisan()
         {
             Console.WriteLine("Saliha");
